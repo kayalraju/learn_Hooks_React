@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.headd{
+  background-color: rgb(228, 166, 166);
+  border: 2px solid green;
+}
+.hi{
+  background-color: honeydew;
+  border: 2px solid red;
+}
+.cardd{
+  width: 18rem;
+}

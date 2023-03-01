@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+.btn{
+  background-color: red;
+  color: aliceblue;
+  padding: 10px 15px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
